@@ -2,7 +2,7 @@
 <suite name="PerformanceSuite" parallel="false">
     <test name="PerformanceTest">
         <classes>
-            <class name="com.performanceTest.tests.PerformanceTest"/>
+            <class name="com.performanceTest.tests.PerformanceTestRunner"/>
         </classes>
     </test>
 </suite>
